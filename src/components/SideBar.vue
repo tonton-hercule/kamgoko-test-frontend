@@ -11,7 +11,7 @@
             <i class="bi bi-grid me-2"></i>
             <span>Dashboard</span>
           </div>
-          <div class="nav-item d-flex align-items-center mb-2 active">
+          <div class="nav-item d-flex align-items-center mb-2 active border-end fw-bold text-black border-primary border-3">
             <i class="bi bi-credit-card me-2"></i>
             <span>Accounts</span>
           </div>
